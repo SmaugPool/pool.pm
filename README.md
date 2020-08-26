@@ -5,7 +5,7 @@
 **pool.pm** is not Open Source for now but you can report bugs or feature requests here by opening an [issue](https://github.com/SmaugPool/pool.pm/issues/new/choose).
 
 # Show your support
-If you like it, you can support the development by delegating or donating to [SM₳UG](https://smaug.pool.pm) pool. 
+You can support the development by delegating or donating to [SM₳UG](https://smaug.pool.pm) pool. 
 
 Thank you :purple_heart:
 
@@ -24,3 +24,6 @@ Bitcoin:
 ```
 bc1q6rd0ngh8w6jwpsal225pm9f8llqczhavakx60l
 ```
+
+## Credits & Licenses
+See [LICENSE.md](LICENSE.md).
